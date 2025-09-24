@@ -1,0 +1,4 @@
+Para testar podemos usar o spec.js ou o test.js
+
+toEqual = Analisa se a estrutura é igual
+toBe = Extritamente igual
